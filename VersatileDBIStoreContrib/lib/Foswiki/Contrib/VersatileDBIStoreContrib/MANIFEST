@@ -1,0 +1,6 @@
+!noci
+data/System/VersatileDBIStoreContrib.txt 0644 Documentation page
+lib/Foswiki/Store/Versatile.pm  Perl module 
+lib/Foswiki/Contrib/VersatileDBIStoreContrib.pm  Perl module 
+lib/Foswiki/Contrib/VersatileDBIStoreContrib/Config.spec 0444 Configuration
+lib/Foswiki/Plugins/VersatileDBIStorePlugin.pm  Perl module 
